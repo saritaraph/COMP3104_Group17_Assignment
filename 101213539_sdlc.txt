@@ -1,2 +1,3 @@
 By integrating DevOps practices within SDLC, teams achieve greater efficiency, shorter development cycles, and continuous feedback.
 Overall, DevOps bridges the gap between development and operations for continuous improvement.
+DevOps transforms the SDLC by automating testing, improving feedback loops, and increasing deployment frequency.
