@@ -1,3 +1,9 @@
 Matthew Macalalad, 101510305
 
 Importance of DevOps in the software development lifecycle
+
+DevOps helps to bridge the gap between development and operations (hence the name DevOps). It helps to unite developers and operations teams, when previously there was more of a divide to them. Instead of two different teams working together, DevOps serves to blend the two a bit more, making for more effective and efficient workflows.
+
+By promoting greater collaboration and communication, and supporting practices such as continuous integration and continuous development (CI/CD), DevOps accelerates the overall process of delivering software.
+
+Not only does it improve the speed of work being done, it can also improve the quality; through continuously integrating and testing all throughout, bugs and defects can be caught and triaged much earlier than normal, and receiving continuous feedback between the two teams allows for faster iterations and better decisions being made. 
