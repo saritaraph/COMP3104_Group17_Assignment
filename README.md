@@ -4,9 +4,9 @@
 - **Leader:** Sara Rufael Yohannes (101543366) - [GitHub](https://github.com/saritaraph)
 - **Member 2:** Blen Abebe (101213539) - [GitHub]()
 - **Member 3:** Cherish Nwansi (101505167) - [GitHub](h)
-- **Member 4:** Matthew Macalalad (101510305) - [GitHub]()
+- **Member 4:** Matthew Macalalad (101510305) - [GitHub](https://github.com/MatthewMacalaladGBC)
 - **Member 5:** Karen Amadi (101511541) - [GitHub](https://github.com/nyekachi)
-- **Member 4:** Krishna Venu () - [GitHub]()
+- **Member 6:** Krishna Venu () - [GitHub]()
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.

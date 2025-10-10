@@ -1,0 +1,15 @@
+Matthew Macalalad, 101510305
+
+Information about the COMP3104 DevOps course
+
+The COMP 3104 DevOps course is offered at George Brown College, as a part of the Computer Programming & Analysis program.
+
+The program is offered both online, and hybridly (a mix of online and in-person classes). If you choose the in-person program, 
+classes are held at GBC's Casa Loma Campus.
+
+The course itself focuses on teaching students the procedures, protocols, and best practices of a DevOps engineer. It aims to 
+teach students the importance of DevOps when it comes to software development, by guiding them on what skills and knowledge they 
+can bring to increase productivity.
+
+It makes use of hands-on examples and exercises so that students can emulate working in a proper workplace environment, using 
+industry standard tools and software.
