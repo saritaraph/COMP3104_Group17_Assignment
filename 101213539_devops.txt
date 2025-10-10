@@ -1,1 +1,2 @@
 DevOps emphasizes collaboration, automation, and continuous delivery to ensure faster and more reliable software releases.
+The COMP3104 DevOps course teaches practical skills in Git, CI/CD, and teamwork to prepare students for real-world collaboration.
