@@ -8,3 +8,6 @@ DevOps plays a critical role in the SDLC by
 bridging the gap between developers and operations teams. 
 It ensures that code is built, tested, and deployed 
 quickly and consistently.
+Overall, DevOps promotes collaboration, transparency, 
+and shared responsibility across teams 
+— transforming software delivery into a faster, more reliable process.
