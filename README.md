@@ -2,8 +2,8 @@
 
 ## Group Members
 - **Leader:** Sara Rufael Yohannes (101543366) - [GitHub](https://github.com/saritaraph)
-- **Member 2:** Blen Abebe (101213539) - [GitHub]()
-- **Member 3:** Cherish Nwansi (101505167) - [GitHub](h)
+- **Member 2:** Blen Abebe (101213539) - [GitHub](https:/https://github.com/bliyu)
+- **Member 3:** Cherish Nwansi (101505167) - [GitHub]()
 - **Member 4:** Matthew Macalalad (101510305) - [GitHub](https://github.com/MatthewMacalaladGBC)
 - **Member 5:** Karen Amadi (101511541) - [GitHub](https://github.com/nyekachi)
 - **Member 6:** Krishna Venu () - [GitHub]()
