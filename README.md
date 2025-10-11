@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Sara Rufael Yohannes (101543366) - [GitHub](https://github.com/saritaraph)
-- **Member 2:** Blen Abebe (101213539) - [GitHub](https:/https://github.com/bliyu)
+- **Member 2:** Blen Abebe (101213539) - [GitHub](https://github.com/bliyu)
 - **Member 3:** Cherish Nwansi (101505167) - [GitHub]()
 - **Member 4:** Matthew Macalalad (101510305) - [GitHub](https://github.com/MatthewMacalaladGBC)
 - **Member 5:** Karen Amadi (101511541) - [GitHub](https://github.com/nyekachi)
@@ -21,3 +21,9 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
+- 101543366-Sara
+- 101213539-Blen
+- 101505167-cherish
+- 101510305-Matthew
+- 101511541-karen
+- 101484996-krishna
