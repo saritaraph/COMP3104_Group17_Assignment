@@ -1,0 +1,14 @@
+About COMP3104 DeveOps course:
+
+COMP3104-DevOps teaches collaborative
+software development practices, emphasizing 
+automation, continuous integration, and version 
+control using Git and GitHub.
+The course covers Continuous Integration (CI) 
+and Continuous Deployment (CD), teaching how 
+automation helps teams deliver high-quality 
+software faster and more reliably.
+By completing this course, students gain 
+hands-on experience with tools like GitHub 
+Actions and Jenkins, learning how to maintain smooth 
+workflows from coding to deployment. 
