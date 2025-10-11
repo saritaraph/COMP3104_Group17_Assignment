@@ -1,0 +1,9 @@
+## Devops
+
+This course is about learning how to make software work smoothly from building it, testing it, to running it on servers.
+
+It teaches how to connect the work between developers (who build things) and system admins (who manage them).
+
+This course helps you understand how modern companies build, test, and release software faster. 
+
+It gives you hands-on skills that are important for jobs in IT, cloud computing, and system administration.
