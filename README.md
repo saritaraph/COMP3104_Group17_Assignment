@@ -26,4 +26,4 @@ Each member has their own branch named `STUDENTID-Name`. All changes are merged 
 - 101505167-cherish
 - 101510305-Matthew
 - 101511541-karen
-- 101484996-krishna
+- 101484996-Krishna
