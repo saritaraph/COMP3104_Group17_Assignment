@@ -3,3 +3,4 @@ It connects each stage—planning, coding, building, testing, deployment, and mo
 This approach reduces development time, increases stability, and ensures rapid response to customer feedback. 
 By aligning teams and automating repetitive tasks, DevOps enhances efficiency and leads to more consistent software releases.
 DevOps in SDLC integrates testing and deployment to ensure continuous improvement.
+Benefits: faster release cycles, fewer bugs, and higher software quality.
