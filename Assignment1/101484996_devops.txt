@@ -1,0 +1,2 @@
+The course also covers GitHub Actions and Travis CI for continuous integration workflows.
+DevOps promotes collaboration between developers, testers, and operations teams to deliver faster releases.
