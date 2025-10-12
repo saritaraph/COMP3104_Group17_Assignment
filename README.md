@@ -22,7 +22,7 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
 - 101543366-Sara
-- 101213539-Blen
+- 101213539_Blen
 - 101505167-cherish
 - 101510305-Matthew
 - 101511541-karen
