@@ -2,3 +2,4 @@ COMP3104 (DevOps) introduces students to modern software development practices t
 Key topics include version control with Git and GitHub, branching strategies, pull requests, and continuous integration pipelines using GitHub Actions or Travis CI. 
 The course emphasizes teamwork, testing, and deployment automation to ensure faster and more reliable software delivery. 
 By the end of the course, students will understand how CI/CD enhances both productivity and software quality.
+DevOps encourages team collaboration and rapid feedback using CI/CD pipelines.
